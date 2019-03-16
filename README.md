@@ -3,7 +3,7 @@
 ## Input and Output
 ```
 Input: "this is it."
-Output: h.
+Output: "h."
 
 Input: "hello world"
 Output: "hel wrd"
